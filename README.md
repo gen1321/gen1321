@@ -1,16 +1,14 @@
-### Hi there 👋
+Welcome to my GitHub profile! 👋
+I'm a software developer who is passionate about functional programming, especially in Ruby and Elixir. I enjoy working on projects that challenge me and allow me to learn new things.
 
-<!--
-**gen1321/gen1321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I believe that functional programming is not just a programming paradigm, but also a way of thinking about programming problems. In my opinion, functional programming provides a more declarative and composable way of building software, which makes it easier to reason about and test.
 
-Here are some ideas to get you started:
+In my GitHub profile, you'll find various projects that showcase my skills and interests.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you're interested in collaborating on a project or have any questions, feel free to reach out to me. You can find me on LinkedIn or send me an email.
+
+🌱 Interest
+Ruby
+Elixir
+Haskell
+Editors(Vim/Emacs)
