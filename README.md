@@ -8,7 +8,8 @@ In my GitHub profile, you'll find various projects that showcase my skills and i
 If you're interested in collaborating on a project or have any questions, feel free to reach out to me. You can find me on LinkedIn or send me an email.
 
 🌱 Interest
-Ruby
-Elixir
-Haskell
-Editors(Vim/Emacs)
+- Ruby
+- Elixir
+- Haskell
+- Editors(Vim/Emacs)
+- Keyboards
